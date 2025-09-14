@@ -7,7 +7,7 @@ Allows scrolling through the maid's task list with the mouse wheel.
     <a href="#">English</a>
 </p>
 
-This mod is an addon for Touhou Little Maid..
+This mod is an addon for Touhou Little Maid.
 
 After adding this mod, you can use the mouse wheel to turn the page of the task list.
 
