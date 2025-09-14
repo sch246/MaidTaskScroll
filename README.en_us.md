@@ -13,3 +13,4 @@ After adding this mod, you can use the mouse wheel to turn the page of the task 
 
 ## License
 - Code: [MIT](https://www.mit.edu/~amini/LICENSE.md)
+- Assets: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
