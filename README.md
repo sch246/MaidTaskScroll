@@ -12,5 +12,5 @@
 添加本模组后，可以用鼠标滚轮翻页任务列表。
 
 ## License
-- Code: [MIT](https://www.mit.edu/~amini/LICENSE.md)
-- Assets: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- Code: [MIT](https://mit-license.org/)
+- Assets: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)

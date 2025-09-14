@@ -12,5 +12,5 @@ This mod is a subsidiary mod of Chewan's maid.
 After adding this mod, you can use the mouse wheel to turn the page of the task list.
 
 ## License
-- Code: [MIT](https://www.mit.edu/~amini/LICENSE.md)
+- Code: [MIT](https://mit-license.org/)
 - Assets: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
